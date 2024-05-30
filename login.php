@@ -8,6 +8,9 @@
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body>
-<?php require "view/login.view.php";?>
+    <?php require "./view/partials/navbar.view.php"?>
+    <?php require "./view/login.view.php";?>
+    <?Php require "./view/partials/footer.view.php"?>
+
 </body>
 </html>
