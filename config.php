@@ -2,7 +2,7 @@
 
 return[
     "host" =>"localhost",
-    "root" =>"admin",
-    "password"=>"welcome",
-    "database"=>"ecommerce"
+    "root" =>"dckap",
+    "password"=>"Dckap2023Ecommerce",
+    "database"=>"mvc_practice"
 ];
